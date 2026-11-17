@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="csharp-opdracht1/csharp-opdracht1.csproj" />
+  <Project Path="csharp-opdracht2/csharp-opdracht2.csproj" />
+  <Project Path="csharp-opdracht3/csharp-opdracht3.csproj" />
+  <Project Path="csharp-opdracht4/csharp-opdracht4.csproj" />
+  <Project Path="csharp-opdracht5/csharp-opdracht5.csproj" />
+  <Project Path="csharp-opdracht6/csharp-opdracht6.csproj" />
+</Solution>
