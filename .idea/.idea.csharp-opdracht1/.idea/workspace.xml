@@ -9,6 +9,7 @@
     <projectFile>csharp-opdracht6/csharp-opdracht6.csproj</projectFile>
     <projectFile>csharp-opdracht7/csharp-opdracht7.csproj</projectFile>
     <projectFile>csharp-opdracht8/csharp-opdracht8.csproj</projectFile>
+    <projectFile>csharp-opdracht9/csharp-opdracht9.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -21,11 +22,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67576aa6-7916-40dd-a1a6-0679c068224d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp-opdracht1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp-opdracht1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp-opdracht1/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp-opdracht1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csharp-opdracht1.slnx" beforeDir="false" afterPath="$PROJECT_DIR$/csharp-basis.slnx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.csharp-opdracht1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.csharp-opdracht1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csharp-basis.slnx" beforeDir="false" afterPath="$PROJECT_DIR$/csharp-basis.slnx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,65 +44,66 @@
     <setting file="file://$PROJECT_DIR$/csharp-opdracht6/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/csharp-opdracht7/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/csharp-opdracht8/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/csharp-opdracht9/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000003" />
-      <entry key="MS500" value="1.0031382961950726" />
-      <entry key="S2" value="1.3086647629934212" />
-      <entry key="S5" value="2.2449978032781672" />
-      <entry key="S10" value="3.357611106306419" />
-      <entry key="S30" value="5.382980842336818" />
-      <entry key="S60" value="8.296126014534394" />
-      <entry key="M2" value="12.514750793360419" />
-      <entry key="M5" value="18.699031634644566" />
-      <entry key="M10" value="30.663504430850953" />
-      <entry key="M15" value="45.2202448196034" />
-      <entry key="M30" value="80.0671922207323" />
-      <entry key="H1" value="114.05825574018775" />
-      <entry key="H2" value="138.2100818775883" />
-      <entry key="H4" value="152.66651993078415" />
-      <entry key="D1" value="166.13696611383216" />
-      <entry key="W1" value="168.58740221405418" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.5091215433580548E-67" />
+      <entry key="S2" value="2.2425511765733538E-17" />
+      <entry key="S5" value="2.5117871282587204E-7" />
+      <entry key="S10" value="8.865532180212537E-4" />
+      <entry key="S30" value="0.4124631148010886" />
+      <entry key="S60" value="2.3004479878641386" />
+      <entry key="M2" value="5.90490750837303" />
+      <entry key="M5" value="10.941107916514062" />
+      <entry key="M10" value="13.593342270111705" />
+      <entry key="M15" value="14.634323015092559" />
+      <entry key="M30" value="15.766829699365493" />
+      <entry key="H1" value="16.3702318254593" />
+      <entry key="H2" value="16.72318649177456" />
+      <entry key="H4" value="19.696448959397674" />
+      <entry key="D1" value="114.62672678139079" />
+      <entry key="W1" value="195.97728706908137" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="4.231288656985817E-96" />
-      <entry key="S2" value="1.434227889666612E-24" />
-      <entry key="S5" value="2.901664960533603E-10" />
-      <entry key="S10" value="1.7034274156927276E-5" />
-      <entry key="S30" value="0.025730084406378414" />
-      <entry key="S60" value="0.16040623688730685" />
-      <entry key="M2" value="0.4018754408151132" />
-      <entry key="M5" value="0.9981373063485217" />
-      <entry key="M10" value="2.8919639118852136" />
-      <entry key="M15" value="4.88314540009757" />
-      <entry key="M30" value="8.849173029424229" />
-      <entry key="H1" value="12.184211423552643" />
-      <entry key="H2" value="14.369251076303524" />
-      <entry key="H4" value="15.62329803731387" />
-      <entry key="D1" value="16.761506546164938" />
-      <entry key="W1" value="16.965700832682792" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000046577737032" />
+      <entry key="S2" value="1.0838548097263034" />
+      <entry key="S5" value="1.4376443017919178" />
+      <entry key="S10" value="1.8702165969821922" />
+      <entry key="S30" value="2.69509317524896" />
+      <entry key="S60" value="3.6589502386922836" />
+      <entry key="M2" value="4.9311749765004285" />
+      <entry key="M5" value="6.406705188195308" />
+      <entry key="M10" value="7.120698227993736" />
+      <entry key="M15" value="7.39327558908621" />
+      <entry key="M30" value="7.685767377757077" />
+      <entry key="H1" value="7.840045357264947" />
+      <entry key="H2" value="7.923053636563546" />
+      <entry key="H4" value="8.219210133463472" />
+      <entry key="D1" value="16.873326016238053" />
+      <entry key="W1" value="24.27079294052109" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9138314502296294" />
-      <entry key="MS500" value="0.9851126269492354" />
-      <entry key="S2" value="1.2976915015122623" />
-      <entry key="S5" value="2.203841481651103" />
-      <entry key="S10" value="3.294319880368206" />
-      <entry key="S30" value="5.353443336083772" />
-      <entry key="S60" value="8.4026791117331" />
-      <entry key="M2" value="12.870057322231773" />
-      <entry key="M5" value="19.667707784654066" />
-      <entry key="M10" value="33.53235108027181" />
-      <entry key="M15" value="50.08213512191266" />
-      <entry key="M30" value="88.89948906492673" />
-      <entry key="H1" value="126.23121951323232" />
-      <entry key="H2" value="152.57275231708505" />
-      <entry key="H4" value="168.28624737667081" />
-      <entry key="D1" value="182.89783460994187" />
-      <entry key="W1" value="185.55301078830723" />
+      <entry key="MS100" value="3.959792298366167E-8" />
+      <entry key="MS500" value="0.03309440452488059" />
+      <entry key="S2" value="0.49120556049297376" />
+      <entry key="S5" value="1.1003735042819407" />
+      <entry key="S10" value="1.6589111064816624" />
+      <entry key="S30" value="3.011892608555503" />
+      <entry key="S60" value="5.897938060485565" />
+      <entry key="M2" value="10.794974682442103" />
+      <entry key="M5" value="17.32560814113712" />
+      <entry key="M10" value="20.701381761685365" />
+      <entry key="M15" value="22.018746976210988" />
+      <entry key="M30" value="23.447945262473066" />
+      <entry key="H1" value="24.207890729777336" />
+      <entry key="H2" value="24.645029581664108" />
+      <entry key="H4" value="27.914993476774228" />
+      <entry key="D1" value="131.4996237248676" />
+      <entry key="W1" value="220.24797974154407" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -141,7 +140,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.csharp-opdracht8">
+  <component name="RunManager" selected=".NET Project.csharp-opdracht9">
     <configuration name="csharp-opdracht1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -310,6 +309,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="csharp-opdracht9" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/csharp-opdracht9/csharp-opdracht9.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -341,7 +361,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="added opdracht 2 tm 6" />
     <MESSAGE value="added opdracht 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="added opdracht 7" />
+    <MESSAGE value="added opdracht 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="added opdracht 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
