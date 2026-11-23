@@ -1,14 +1,17 @@
-﻿namespace csharp_opdracht7;
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
         int geluksgetal = 5;
         Console.WriteLine("wat is mijn geluksgetal?");
 
-        if (int.TryParse(Console.ReadLine(), out int gekozengetal))
+        ConsoleKeyInfo toets = Console.ReadKey();
+        Console.WriteLine();
+
+        if (char.IsDigit(toets.KeyChar))
         {
+            int gekozengetal = int.Parse(toets.KeyChar.ToString());
+
             if (gekozengetal == geluksgetal)
             {
                 Console.WriteLine($"{gekozengetal} is juist! Je hebt mijn geluksgetal geraden");
