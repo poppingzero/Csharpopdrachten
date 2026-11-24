@@ -1,4 +1,6 @@
-﻿namespace csharp_opdracht12 ;
+﻿using System.Diagnostics;
+
+namespace csharp_opdracht12 ;
 using System;
 
 class Program
